@@ -1,65 +1,84 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/d10d1abf-c717-47b7-a57d-d26239edd8ec" alt="Emad Saeed Halim" width="220" style="border-radius: 50%; border: 5px solid #00d2ff; box-shadow: 0 10px 20px rgba(0,0,0,0.4);"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=050505&fontColor=00d2ff&text=EMAD%20SAEED%20HALIM&fontSize=70&desc=Flutter%20Developer%20|%20Embedded%20Systems%20Engineer&descAlignY=75&descAlign=50" width="100%" />
 
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00d2ff&text=EMAD%20SAEED%20HALIM&fontSize=60&fontWeight=800" alt="Name" />
 
-  <h2 align="center">🚀 Innovative <span style="color: #00d2ff;">Flutter Developer</span> | <span style="color: #2ea44f;">Embedded Systems</span> Enthusiast</h2>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/d10d1abf-c717-47b7-a57d-d26239edd8ec" width="180" style="border-radius: 50%; border: 4px solid #00d2ff;" />
+      </td>
+      <td align="left">
+        <h3> ⚡ Quick Overview</h3>
+        <ul>
+          <li>🚀 Specialized in <b>Cross-Platform Mobile Apps</b></li>
+          <li>🤖 Passionate about <b>IoT & Hardware Integration</b></li>
+          <li>🎓 Engineering Student | Constant Learner</li>
+          <li>📍 Based in Sohag, Egypt</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 
-  <p align="center"><b>Bridging Software Excellence with Hardware Innovation</b></p>
+  <br/>
 
-  <a href="https://www.linkedin.com/in/emad-saeed-18a606395" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:saeedemad929@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://eng-emadsaeed-h.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-E68523?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio"></a>
-  <a href="tel:01203698145"><img src="https://img.shields.io/badge/-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Call"></a>
+  <a href="https://www.linkedin.com/in/emad-saeed-18a606395"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:saeedemad929@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://eng-emadsaeed-h.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00d2ff?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://wa.me/201203698145"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </div>
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=120&section=header" width="100%" />
 
-<table>
+<hr/>
+
+### 🛠️ Professional Tech Stack
+
+<table align="center">
   <tr>
-    <td width="60%">
-      <h2>✨ About Me</h2>
-      <p>
-        A dedicated software engineer with a double passion: crafting seamless, user-centric mobile applications using <b>Flutter & Dart</b>, and engineering complex <b>Embedded Systems</b> that bring hardware to life. 
-      </p>
-      <p>
-        I thrive on creating solutions where these two worlds meet, like my <b>Smart Chair</b> project. Constantly learning and building.
-      </p>
+    <td align="center" width="50%">
+      <b>Mobile Development</b><br/>
+      <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite" />
     </td>
-    <td width="40%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedemad929-hash&layout=compact&theme=visual_studio_code&hide_border=true" alt="Top Langs" />
+    <td align="center" width="50%">
+      <b>Hardware & Embedded</b><br/>
+      <img src="https://skillicons.dev/icons?i=cpp,arduino,raspberrypi" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <b>Design & UI/UX</b><br/>
+      <img src="https://skillicons.dev/icons?i=figma,xd" />
+    </td>
+    <td align="center" width="50%">
+      <b>Tools & Platforms</b><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,postman" />
     </td>
   </tr>
 </table>
 
-<br/>
+<hr/>
+
+### 📊 Engineering Analytics (GitHub Insight)
 
 <div align="center">
-  <h2>🛠️ Tech Stack & Tools</h2>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://github-readme-stats.vercel.app/api?username=saeedemad929-hash&show_icons=true&theme=tokyonight&hide_border=false&border_color=00d2ff&title_color=00d2ff&icon_color=00d2ff&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedemad929-hash&layout=compact&theme=tokyonight&hide_border=false&border_color=00d2ff&title_color=00d2ff" width="40%" />
 </div>
-
-<br/>
 
 <div align="center">
-  <h2>📊 My GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=saeedemad929-hash&show_icons=true&theme=visual_studio_code&hide_border=true&count_private=true" alt="GitHub Stats" width="80%">
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saeedemad929-hash&theme=visual_studio_code&hide_border=true" alt="GitHub Streak" width="80%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saeedemad929-hash&theme=tokyonight&hide_border=false&border_color=00d2ff&stroke=00d2ff&ring=00d2ff&fire=00d2ff" width="89%" />
 </div>
 
-<br/>
+<hr/>
+
+### 🏆 Featured Projects Highlights
+* **[Smart Chair System](https://github.com/saeedemad929-hash/Smart-Chair-App):** An innovative integration between Flutter & ESP32 for accessibility.
+* **[Wareed App](https://github.com/saeedemad929-hash/Wareed-App):** Life-saving blood donation platform with real-time tracking.
+* **[Sahala Queuing](https://github.com/saeedemad929-hash/sahla):** Digital transformation for government services.
+
 <hr/>
 
 <div align="center">
-  <h3>Let's collaborate! Feel free to reach out.</h3>
-  <p>📍 Based in Egypt | Available for projects</p>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
 <p align="center">
